@@ -47,4 +47,6 @@ In **kali** user run these commands <br/>
 
 <img width="501" alt="cut" src="https://user-images.githubusercontent.com/26005476/196697896-882e1d00-94f9-4932-b748-dd1530328843.png">
 
+Additional Challenge:
 
+![sed Challenge](https://user-images.githubusercontent.com/26005476/196742609-e90a6c4f-4d75-4324-acab-893e236589a9.png)
