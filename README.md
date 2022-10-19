@@ -45,5 +45,6 @@ In **kali** user run these commands <br/>
 <img width="296" alt="sed" src="https://user-images.githubusercontent.com/26005476/196692087-4394ca27-3bda-4600-820e-c0d3359dbf19.png">
 <img width="437" alt="uptime" src="https://user-images.githubusercontent.com/26005476/196692090-67b9ef28-69eb-473d-96e6-e1a004d8e2dc.png">
 
+<img width="501" alt="cut" src="https://user-images.githubusercontent.com/26005476/196697896-882e1d00-94f9-4932-b748-dd1530328843.png">
 
 
