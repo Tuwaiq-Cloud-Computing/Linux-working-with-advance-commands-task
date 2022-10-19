@@ -39,3 +39,11 @@ In **kali** user run these commands <br/>
 
 - After finishing each task take screen shot of the command and the content of the file after run the commands.
 - Then upload the pictures to the forked repo and then create a pull request.
+
+<img width="291" alt="sort" src="https://user-images.githubusercontent.com/26005476/196692084-09df5835-b3da-4946-ae6d-9d9785c70bf4.png">
+<img width="281" alt="full name" src="https://user-images.githubusercontent.com/26005476/196692086-d6d291e1-b7d0-4013-ae38-50c64cb89335.png">
+<img width="296" alt="sed" src="https://user-images.githubusercontent.com/26005476/196692087-4394ca27-3bda-4600-820e-c0d3359dbf19.png">
+<img width="437" alt="uptime" src="https://user-images.githubusercontent.com/26005476/196692090-67b9ef28-69eb-473d-96e6-e1a004d8e2dc.png">
+
+
+
