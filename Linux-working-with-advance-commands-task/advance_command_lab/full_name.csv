@@ -1,0 +1,6 @@
+cut -d- --output-delimiter   -f1,2
+ Ali Ahmad;
+ Ali Khaled;
+ Waleed Fahad;
+ Noura Saad;
+ Sarah Mohammed;
